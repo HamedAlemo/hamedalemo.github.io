@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am the Chief Data Scientist at Radiant Earth Foundation, a non-profit organization aiming to use the power of Earth Observations data to enable global development community tackle environmental and development challenges. I lead Radiant Earth Foundation's machine learning efforts on developing open source tools, models and training dataset for a wide range of applications in agriculture, urban planning, health and environmental monitoring. You can read more about our initiative MLHub.Earth in my blog post here. I am also leading a new technical working group at Radiant Earth Foundation on "Machine Learning for Global Development". You can read about our first meeting of the working group here. 
+I am the Chief Data Scientist at Radiant Earth Foundation, a non-profit organization aiming to use the power of Earth Observations data to enable global development community tackle environmental and development challenges. I lead Radiant Earth Foundation's machine learning efforts on developing open source tools, models and training dataset for a wide range of applications in agriculture, urban planning, health and environmental monitoring. You can read more about our initiative MLHub.Earth in my blog post here. I am also leading a new technical working group at Radiant Earth Foundation on "Machine Learning for Global Development". You can read about our first meeting of the working group here. 
 
 Before joining Radiant Earth Foundation in Sep 2017, I was a Postdoctoral Research Scientist at Columbia University’s Earth and Environmental Engineering Department working with Prof. Pierre Gentine. My research was focused on improving our understanding of the heterogeneous processes linking the water, carbon and energy cycles. In particular, I developed new retrieval algorithms from remote sensing observations for different variables of the Water and Carbon cycles and using the remote sensing estimates to characterize the dynamic feedback between terrestrial ecosystem and atmosphere.
 
