@@ -1,13 +1,17 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
-{% include base_path %}
+<!-- <embed src="/files/Alemohammad_CV.pdf" type="application/pdf"> -->
+[some discription](/files/Alemohammad_CV.pdf)
+
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -40,4 +44,4 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
