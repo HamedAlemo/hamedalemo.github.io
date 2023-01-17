@@ -8,4 +8,3 @@ redirect_from:
 ---
 
 <embed src="/files/Alemohammad_CV.pdf" type="application/pdf">
-You can find my CV [here](/files/Alemohammad_CV.pdf)
