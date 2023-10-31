@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**Hiring**: I'm currently looking for a Postdoctoral Research Associate to join my group at Clark Center for Geospatial Analytics. See details [here](/files/Alemohammad_CV.pdf). 
 
 I am an Associate Professor in the [Graduate School of Geography](https://www.clarku.edu/departments/geography/) at [Clark University](https://www.clarku.edu/). I am also the Director of the new Center for Geospatial Analytics (read the news about my appointment [here](https://clarknow.clarku.edu/2022/11/22/hamed-alemohammad-to-lead-new-center-for-geospatial-analytics/)). My research interest lies at the intersection of GISciences and geography to use observations and analytical methods, in particular machine learning (ML) techniques, to better understand the changing Earth system.
 
