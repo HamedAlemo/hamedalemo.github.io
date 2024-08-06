@@ -7,12 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+---
+**Hiring**: We are looking for a Postdoctoral Researcher to join our group at Clark Center for Geospatial Analytics. See details [here](/files/Clark_CGA_Postdoctoral_Researcher.pdf). 
 
-I am an Associate Professor in the [Graduate School of Geography](https://www.clarku.edu/departments/geography/) at [Clark University](https://www.clarku.edu/). I am also the Director of the new Center for Geospatial Analytics (read the news about my appointment [here](https://clarknow.clarku.edu/2022/11/22/hamed-alemohammad-to-lead-new-center-for-geospatial-analytics/)). My research interest lies at the intersection of GISciences and geography to use observations and analytical methods, in particular machine learning (ML) techniques, to better understand the changing Earth system.
+---
+
+I am an Associate Professor in the [Graduate School of Geography](https://www.clarku.edu/departments/geography/) at [Clark University](https://www.clarku.edu/) and the Director of [Clark Center for Geospatial Analytics](https://clarku.edu/cga). My research interest lies at the intersection of GISciences and geography to use observations and analytical methods, in particular machine learning (ML) techniques, to better understand the changing Earth system.
+
+Recently, in my group we have been focused on developing and evaluating Foundation Models for Earth Observations. You can check the latest updates of this work [here](https://www.clarku.edu/centers/geospatial-analytics/research/prithvi-foundation-model/). 
 
 My three main areas of research are:
+- Adapting Machine Learning Techniques to Earth Observation Data ()
 - Characterizing Uncertainties in ML Model Predictions
-- Adapting Machine Learning Techniques to Earth Observation Data
 - Applications of SAR for Soil Moisture and Vegetation Properties Retrieval
 
 Before joining Clark University in Jan. 2023, I was the Chief Data Scientist and Executive Director at [Radiant Earth Foundation](https://www.radiant.earth/), an organization with the vision to empower organizations and individuals globally with open ML and EO data, standards and tools to address the world’s most critical international development challenges. I established and led the development of [Radiant MLHub](https://mlhub.earth/) - the open-access repository for geospatial training data and models at Radiant Earth. 
