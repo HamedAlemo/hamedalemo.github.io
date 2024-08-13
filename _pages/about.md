@@ -7,10 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- ---
-**Hiring**: We are looking for a Postdoctoral Researcher to join our group at Clark Center for Geospatial Analytics. See details [here](/files/Clark_CGA_Postdoctoral_Researcher.pdf). 
-
---- -->
 
 I am an Associate Professor in the [Graduate School of Geography](https://www.clarku.edu/departments/geography/) at [Clark University](https://www.clarku.edu/) and the Director of [Clark Center for Geospatial Analytics](https://clarku.edu/cga). My research interest lies at the intersection of GISciences and geography to use observations and analytical methods, in particular machine learning (ML) techniques, to better understand the changing Earth system.
 
