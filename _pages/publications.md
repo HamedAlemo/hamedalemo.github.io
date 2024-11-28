@@ -19,6 +19,8 @@ You can find the full list of my articles on [my Google Scholar profile](https:/
 
 # Peer-Reviewed Journal Publications
 
+1. Paul S., Alemohammad H., Examining the Performance of Precipitation Products in Replicating Indian Summer
+Monsoon Rainfall (ISMR) using Triple Collocation (in review)
 1.	Fluhrer A., Alemohammad H., Jagdhuber T., Analyzing the dihedral scattering component of P-band SAR signals for trunk permittivity estimation (in review)
 1.	Jakubik J., Roy S., Phillips C.E., ... , Alemohammad H.,  Maskey M., Ganti R., Weldemariam K., Ramachandran R., Foundation Models for Generalist Geospatial Artificial Intelligence (in review)
 1.	Hashemi M.G.Z., Alemohammad H., Jalilvand E., Tan P.N., Judge J., Cosh M., Das N.N. Estimating Crop Biophysical Parameters from Satellite-based SAR and Optical Observations using Self-Supervised Learning with Geospatial Foundation Models (in review)
