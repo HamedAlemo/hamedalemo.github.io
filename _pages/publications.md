@@ -19,8 +19,8 @@ You can find the full list of my articles on [my Google Scholar profile](https:/
 
 # Pre-Print Publications
 
-1.	Tadesse G.A., Robinson C., Mwangi C., Maina E., Nyakundi J., Marotti L., Hacheme G.Q., Alemohammad H., Dodhia R., Lavista Ferres J.M., (2024) Local vs. Global: Local Land Use and Land Cover Models Deliver Higher Quality Maps (arXiv:2412.00777). https://doi.org/10.48550/arXiv.2412.00777
-1.	Khallaghi S., Abedi R., Ali H. A., Alemohammad H., Asipunu M. D., Alatise I., Ha N., Luo B., Mai C., Song L., Wussah A., Xiong S., Yao Y.-T., Zhang Q., Estes L. D. (2024) Generalization Enhancement Strategies to Enable Cross-year Cropland Mapping with Convolutional Neural Networks Trained Using Historical Samples ([arXiv:2408.06467]). https://doi.org/10.48550/arXiv.2408.06467
+1.	Tadesse G.A., Robinson C., Mwangi C., Maina E., Nyakundi J., Marotti L., Hacheme G.Q., Alemohammad H., Dodhia R., Lavista Ferres J.M., (2024) Local vs. Global: Local Land Use and Land Cover Models Deliver Higher Quality Maps ([arXiv:2412.00777](https://doi.org/10.48550/arXiv.2412.00777)).
+1.	Khallaghi S., Abedi R., Ali H. A., Alemohammad H., Asipunu M. D., Alatise I., Ha N., Luo B., Mai C., Song L., Wussah A., Xiong S., Yao Y.-T., Zhang Q., Estes L. D. (2024) Generalization Enhancement Strategies to Enable Cross-year Cropland Mapping with Convolutional Neural Networks Trained Using Historical Samples ([arXiv:2408.06467](https://doi.org/10.48550/arXiv.2408.06467)).
 1.	Jakubik J., Roy S., Phillips C. E., Fraccaro P., Godwin D., Zadrozny B., Szwarcman D., Gomes C., Nyirjesy G., Edwards B., Kimura D., Simumba N., Chu L., Mukkavilli S. K., Lambhate D., Das K., Bangalore R., Oliveira D., Muszynski M., Ankur M., Ramasubramanian M., Gurung I., Khallaghi S., Li H., Cecil M., Ahmadi M., Kordi F., Alemohammad H., Maskey M., Ganti R., Weldemariam K., Ramachandran, R. (2023) Foundation Models for Generalist Geospatial Artificial Intelligence ([arXiv:2310.18660](https://doi.org/10.48550/arXiv.2310.18660)).
 
 # Publications in Review
