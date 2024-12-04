@@ -11,7 +11,7 @@ redirect_from:
 I am an Associate Professor in the [Graduate School of Geography](https://www.clarku.edu/departments/geography/) at [Clark University](https://www.clarku.edu/) and Director of [Clark Center for Geospatial Analytics](https://clarku.edu/cga). I am an interdisciplinary scientist with expertise in remote sensing, earth science, and AI. 
 My research interest lies at the intersection of remote sensing and data analytics to use observations to better understand the changing Earth system.
 
-Recently, in my group we have been focused on developing and benchmarking Foundation Models for Earth Observations. You can check the latest updates of this work [here](https://www.clarku.edu/centers/geospatial-analytics/research/prithvi-foundation-model/). 
+Recently, we have been focused on developing and benchmarking Foundation Models for Earth Observations in my group. You can check the latest updates of this work [here](https://www.clarku.edu/centers/geospatial-analytics/projects/prithvi-foundation-model/). 
 
 My main areas of research are:
 - Developing and Adapting Machine Learning Techniques for Earth Observation Data
