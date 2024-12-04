@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Hamed Alemohammad"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,6 +17,12 @@ My main areas of research are:
 - Developing and Adapting Machine Learning Techniques for Earth Observation Data
 - Characterizing Uncertainties in Geospatial ML Model Predictions
 - Applications of SAR for Soil Moisture and Vegetation Properties Retrieval
+
+## Biography
+
+Hamed Alemohammad is an Associate Professor in the Graduate School of Geography and Director of the Center for Geospatial Analytics at Clark University. He is an interdisciplinary scientist with expertise in remote sensing, earth science, and AI. His research interest lies at the intersection of geospatial analytics/AI and geography to use observations to better understand the changing Earth system. Hamed has been the PI for several projects focused on developing novel AI models for multispectral, microwave and synthetic aperture radar (SAR) satellite observations. In recent years, his research has been focused on development and application of geospatial foundation models. Prior to Clark University, Hamed was the Chief Data Scientist and Executive Director at Radiant Earth Foundation where he established and led the development of Radiant MLHub - the open-access repository for geospatial training data and AI models. He received his Ph.D. in Civil and Environmental Engineering from MIT.
+
+## Previous Experience 
 
 Before joining Clark University in Jan. 2023, I was the Chief Data Scientist and Executive Director at [Radiant Earth Foundation](https://www.radiant.earth/), an organization with the vision to empower organizations and individuals globally with open ML and EO data, standards and tools to address the world’s most critical international development challenges. I established and led the development of [Radiant MLHub](https://mlhub.earth/) - the open-access repository for geospatial training data and models at Radiant Earth. In this capacity, I also led efforts to mobilize the geospatial community to develop standards and best practices for an interoperable geospatial data ecosystem (such as SpatioTemporal Asset Catalog (STAC)).
 
