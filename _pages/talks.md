@@ -8,7 +8,7 @@ author_profile: true
 ## Invited Talks
 
 ### Upcoming
-1. Jack and Laura Dangermond Lecture, UC Santa Barbara, Winter 2025
+1. Jack and Laura Dangermond Lecture, UC Santa Barbara, March 2025
 
 ### Past
 1.	Korean Academy of Development Policy, November 2024
