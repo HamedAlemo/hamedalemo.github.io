@@ -8,10 +8,11 @@ author_profile: true
 ## Invited Talks
 
 ### Upcoming
-1. Jack and Laura Dangermond Lecture, UC Santa Barbara, March 2025
+1. Harvard Center for Geospatial Analytics Annual Conference, May 2025
 
 ### Past
-1.	Korean Academy of Development Policy, November 2024
+1.	Jack and Laura Dangermond Lecture, The University of California Santa Barbara, March 2025
+1. Korean Academy of Development Policy, November 2024
 2.	Washington University in St. Louis, October 2024
 3.	Mathematica, October 2024
 4.	New York State Geospatial Summit, September 2024
