@@ -25,8 +25,8 @@ You can find the full list of my articles on [my Google Scholar profile](https:/
 
 # Publications in Review
 
-1.	Fluhrer A., Alemohammad H., Jagdhuber T., Analyzing the dihedral scattering component of P-band SAR signals for trunk permittivity estimation (in review)
-1.	Hashemi M.G.Z., Alemohammad H., Jalilvand E., Tan P.N., Judge J., Cosh M., Das N.N. Estimating Crop Biophysical Parameters from Satellite-based SAR and Optical Observations using Self-Supervised Learning with Geospatial Foundation Models (in review)
+1.	Fluhrer A., Alemohammad H., Jagdhuber T., Analyzing the dihedral scattering component of P-band SAR signals for trunk permittivity estimation (in revision)
+1.	Hashemi M.G.Z., Alemohammad H., Jalilvand E., Tan P.N., Judge J., Cosh M., Das N.N. Estimating Crop Biophysical Parameters from Satellite-based SAR and Optical Observations using Self-Supervised Learning with Geospatial Foundation Models (in revision)
 
 
 # Peer-Reviewed Journal Publications
