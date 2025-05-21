@@ -8,7 +8,6 @@ author_profile: true
 ## Invited Talks
 
 ### Upcoming
-1. Harvard Center for Geospatial Analytics Annual Conference, May 2025
 
 ### Past
 1.  IBM Research Climate and Sustainability Deep Dives, April 2025
