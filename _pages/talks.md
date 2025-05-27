@@ -10,6 +10,7 @@ author_profile: true
 ### Upcoming
 
 ### Past
+1.  Esri Imagery & Remote Sensing Educators Summit, May 2025
 1.  IBM Research Climate and Sustainability Deep Dives, April 2025
 1.	Jack and Laura Dangermond Lecture, The University of California Santa Barbara, March 2025
 1.  Korean Academy of Development Policy, November 2024
