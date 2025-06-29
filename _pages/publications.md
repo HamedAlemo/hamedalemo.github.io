@@ -26,7 +26,7 @@ You can find the full list of my articles on [my Google Scholar profile](https:/
  -->
 
 # Peer-Reviewed Journal Publications
-1.	Tadesse G.A., Robinson C., Mwangi C., Maina E., Nyakundi J., Marotti L., Hacheme G.Q., Alemohammad H., Dodhia R., Lavista Ferres J.M. (2025) Local vs. Global: Local Land Use and Land Cover Models Deliver Higher Quality Maps (in print)
+1.	Tadesse G.A., Robinson C., Mwangi C., Maina E., Nyakundi J., Marotti L., Hacheme G.Q., Alemohammad H., Dodhia R., Lavista Ferres J.M., (2025) Enhancing Food Security with High-Quality Land-Use and Land-Cover Maps: A Local Model Approach, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18, 15265-15277.
 1.	Hashemi M.G.Z., Alemohammad H., Jalilvand E., Tan P.N., Judge J., Cosh M., Das N.N. (2025) Estimating Crop Biophysical Parameters from Satellite-based SAR and Optical Observations using Self-Supervised Learning with Geospatial Foundation Models, Remote Sensing of Environment, 327, 114825. 
 1.	Fluhrer A., Alemohammad H., Jagdhuber T (2025) Analyzing the dihedral scattering component of P-band SAR signals for trunk permittivity estimation – a concept study, Science of Remote Sensing, 11, 100236.
 1.	Paul S., Alemohammad H. (2025) Examining the Performance of Precipitation Products in Replicating Indian Summer Monsoon Rainfall (ISMR) using Triple Collocation, Journal of Hydrology, 657, 133136.
