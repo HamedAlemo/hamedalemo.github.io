@@ -19,7 +19,10 @@ You can find the full list of my articles on [my Google Scholar profile](https:/
 
 # Pre-Print Publications
 
+1. Longépé N., Alemohammad H., Anghelea A., Brunschwiler T., Camps-Valls G., Cavallaro G., Chanussot J., Delgado J.M., Demir B., Dionelis N., Fraccaro P., Jungbluth A., Kennedy R.E., Marsocci V., Ramasubramanian M., Ramos-Pollan R., Roy S., Sümbül G., Tuia D., Zhu X.X., Ramachandran R. (2025) Earth Action in Transition: Highlights from the 2025 ESA–NASA International Workshop on AI Foundation Models for EO ([link](https://doi.org/10.22541/au.175346055.53428479/v1)).
+
 1. Szwarcman D., Roy S., Fraccaro P., Gíslason Þ.E., Blumenstiel B., Ghosal R., de Oliveira P.H., de Sousa Almeida J.L., Sedona R., Kang Y., Chakraborty S., Wang S., Kumar A., Truong M., Godwin D., Lee H., Hsu C-Y, and Akbari Asanjan A., Mujeci B., Keenan T., Arevalo P., Li W., Alemohammad H., Olofsson P., Hain C., Kennedy R., Zadrozny B., Cavallaro G., Watson C., Maskey M., Ramachandran R., Moreno J.B. (2024) Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications ([arXiv:2412.02732](https://doi.org/10.48550/arXiv.2412.02732)).  
+
 1.	Jakubik J., Roy S., Phillips C. E., Fraccaro P., Godwin D., Zadrozny B., Szwarcman D., Gomes C., Nyirjesy G., Edwards B., Kimura D., Simumba N., Chu L., Mukkavilli S. K., Lambhate D., Das K., Bangalore R., Oliveira D., Muszynski M., Ankur M., Ramasubramanian M., Gurung I., Khallaghi S., Li H., Cecil M., Ahmadi M., Kordi F., Alemohammad H., Maskey M., Ganti R., Weldemariam K., Ramachandran, R. (2023) Foundation Models for Generalist Geospatial Artificial Intelligence ([arXiv:2310.18660](https://doi.org/10.48550/arXiv.2310.18660)).
 <!-- 
 # Publications in Review
