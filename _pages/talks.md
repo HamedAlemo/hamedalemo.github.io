@@ -8,6 +8,10 @@ author_profile: true
 ## Invited Talks
 
 ### Upcoming
+1. GeoGov Summit, September 2025
+1. NY Climate Week, September 2025
+1. NASA Goddard Space Flight Center, October 2025
+1. Earth System Science Interdisciplinary Center (ESSIC), University of Maryland, College Park, October 2025
 
 ### Past
 1.  Esri Imagery & Remote Sensing Educators Summit, May 2025
@@ -51,12 +55,12 @@ author_profile: true
 36.	AGU Fall Meeting, December 2018
 37.	AWS’s Earth Analytics in the Cloud Day, University of Colorado, Boulder, October 2017
 38.	Department of Civil and Environmental Engineering, University of Wisconsin- Milwaukee, September 2017
-39.	Earth Science Division, NASA Ames Research Center, February 2017.
-40.	Columbia Water Center, Columbia University, September 2016.
-41.	Department of Agronomy, Purdue University, March 2015.
-42.	Department of Civil and Environmental Engineering, Princeton University, September 2014.
-43.	Hydrosystems Laboratory, University of Illinois at Urbana-Champaign, June 2014.
-44.	Earth System Science Interdisciplinary Center (ESSIC), University of Maryland, College Park, May 2014.
-45.	Department of Civil and Environmental Engineering, Massachusetts Institute of Technology, March 2014.
-46.	Department of Civil and Environmental Engineering, University of Connecticut, April 2012.
-47.	Center for Hydrometeorology and Remote Sensing, University of California, Irvine, March 2010.
+39.	Earth Science Division, NASA Ames Research Center, February 2017
+40.	Columbia Water Center, Columbia University, September 2016
+41.	Department of Agronomy, Purdue University, March 2015
+42.	Department of Civil and Environmental Engineering, Princeton University, September 2014
+43.	Hydrosystems Laboratory, University of Illinois at Urbana-Champaign, June 2014
+44.	Earth System Science Interdisciplinary Center (ESSIC), University of Maryland, College Park, May 2014
+45.	Department of Civil and Environmental Engineering, Massachusetts Institute of Technology, March 2014
+46.	Department of Civil and Environmental Engineering, University of Connecticut, April 2012
+47.	Center for Hydrometeorology and Remote Sensing, University of California, Irvine, March 2010
