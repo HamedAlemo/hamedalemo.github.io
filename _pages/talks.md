@@ -8,12 +8,12 @@ author_profile: true
 ## Invited Talks
 
 ### Upcoming
-1. GeoGov Summit, September 2025
-1. NY Climate Week, September 2025
 1. NASA Goddard Space Flight Center, October 2025
 1. Earth System Science Interdisciplinary Center (ESSIC), University of Maryland, College Park, October 2025
 
 ### Past
+1. NY Climate Week, September 2025
+1. GeoGov Summit, September 2025
 1.  Esri Imagery & Remote Sensing Educators Summit, May 2025
 1.  IBM Research Climate and Sustainability Deep Dives, April 2025
 1.	Jack and Laura Dangermond Lecture, The University of California Santa Barbara, March 2025
