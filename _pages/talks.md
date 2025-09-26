@@ -14,18 +14,18 @@ author_profile: true
 ### Past
 1. NY Climate Week, September 2025
 1. GeoGov Summit, September 2025
-1.  Esri Imagery & Remote Sensing Educators Summit, May 2025
-1.  IBM Research Climate and Sustainability Deep Dives, April 2025
-1.	Jack and Laura Dangermond Lecture, The University of California Santa Barbara, March 2025
-1.  Korean Academy of Development Policy, November 2024
-2.	Washington University in St. Louis, October 2024
-3.	Mathematica, October 2024
-4.	New York State Geospatial Summit, September 2024
-5.	Amazon Sustainability Speaker Series, May 2024
-6.	Harvard CGA GeoAI Conference, May 2024
-7.	Measuring Development, World Bank, May 2024
-8.	Harvard Center for Geographical Analysis, March 2024
-9.	CV4EO Workshop at IEEE WACV, January 2024
+1. Esri Imagery & Remote Sensing Educators Summit, May 2025
+1. IBM Research Climate and Sustainability Deep Dives, April 2025
+1. Jack and Laura Dangermond Lecture, The University of California Santa Barbara, March 2025
+1. Korean Academy of Development Policy, November 2024
+2. Washington University in St. Louis, October 2024
+3. Mathematica, October 2024
+4. New York State Geospatial Summit, September 2024
+5. Amazon Sustainability Speaker Series, May 2024
+6. Harvard CGA GeoAI Conference, May 2024
+7. Measuring Development, World Bank, May 2024
+8. Harvard Center for Geographical Analysis, March 2024
+9. CV4EO Workshop at IEEE WACV, January 2024
 10.	Trillion Pixel Challenge Workshop, ORNL, June 2023
 11.	International Workshop on Earth Observation for Food Security, World Bank, May 2023
 12.	Clark University Graduate School of Geography Centennial, April 2023
