@@ -19,6 +19,8 @@ You can find the full list of my articles on [my Google Scholar profile](https:/
 
 # Pre-Print Publications
 
+1.	Tulbure M.G., Caineta J., Broich M., Gaines M.D., Rufin P., Thomas L.F., Alemohammad H., Hemmerling J., Hostert P. (2025) Leveraging AI multimodal geospatial foundation models for improved near-real-time flood mapping at a global scale. (arXiv: 2512.02055). https://arxiv.org/abs/2512.02055 
+
 1. Simumba N., Lehmann N., Fraccaro P., Alemohammad H., De Mel G., Khan S., Maskey M., Longepe N., Zhu X.X., Kerner H., Bernabe-Moreno J., Lacoste A. (2025) GEO-Bench-2: From Performance to Capability, Rethinking Evaluation in Geospatial AI ([arxiv: 2511.15658](https://doi.org/10.48550/arXiv.2511.15658)).
 
 1. Longépé N., Alemohammad H., Anghelea A., Brunschwiler T., Camps-Valls G., Cavallaro G., Chanussot J., Delgado J.M., Demir B., Dionelis N., Fraccaro P., Jungbluth A., Kennedy R.E., Marsocci V., Ramasubramanian M., Ramos-Pollan R., Roy S., Sümbül G., Tuia D., Zhu X.X., Ramachandran R. (2025) Earth Action in Transition: Highlights from the 2025 ESA–NASA International Workshop on AI Foundation Models for EO ([link](https://doi.org/10.22541/au.175346055.53428479/v1)).

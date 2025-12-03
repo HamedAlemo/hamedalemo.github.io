@@ -8,10 +8,11 @@ author_profile: true
 ## Invited Talks
 
 ### Upcoming
-1. NASA Goddard Space Flight Center, October 2025
-1. Earth System Science Interdisciplinary Center (ESSIC), University of Maryland, College Park, October 2025
+<!-- 1. NASA Goddard Space Flight Center, October 2025
+1. Earth System Science Interdisciplinary Center (ESSIC), University of Maryland, College Park, October 2025 -->
 
 ### Past
+1. NASEM Workshop on Future Directions for Earth Observations and Data Stewardship, December 2025
 1. NY Climate Week, September 2025
 1. GeoGov Summit, September 2025
 1. Esri Imagery & Remote Sensing Educators Summit, May 2025
