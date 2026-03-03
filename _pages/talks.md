@@ -12,6 +12,7 @@ author_profile: true
 1. Earth System Science Interdisciplinary Center (ESSIC), University of Maryland, College Park, October 2025 -->
 
 ### Past
+1. AGU Fall Meeting, December 2025
 1. NASEM Workshop on Future Directions for Earth Observations and Data Stewardship, December 2025
 1. NY Climate Week, September 2025
 1. GeoGov Summit, September 2025
