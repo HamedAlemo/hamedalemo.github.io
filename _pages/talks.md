@@ -8,10 +8,11 @@ author_profile: true
 ## Invited Talks
 
 ### Upcoming
-<!-- 1. NASA Goddard Space Flight Center, October 2025
-1. Earth System Science Interdisciplinary Center (ESSIC), University of Maryland, College Park, October 2025 -->
+1. NASA Goddard Space Flight Center, June 2026
 
 ### Past
+1. 2026 IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium, April 2026
+1. Center for Remote Sensing Applications (CRSA), Mohammed VI Polytechnic University, April 2026
 1. AGU Fall Meeting, December 2025
 1. NASEM Workshop on Future Directions for Earth Observations and Data Stewardship, December 2025
 1. NY Climate Week, September 2025

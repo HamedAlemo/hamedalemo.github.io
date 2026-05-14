@@ -15,7 +15,6 @@ My research is motivated by a simple question: **how can we turn the growing vol
 
 In recent years, my group has been focused on the development, evaluation, and benchmarking of **self-supervised learning models for Earth observation**, and specifically generalizable foundation models designed to learn from heterogeneous geospatial data at scale. You can find updates and related work [here](https://www.clarku.edu/centers/geospatial-analytics/projects/prithvi-foundation-model/).
 
----
 
 ## Research Themes
 
@@ -26,13 +25,11 @@ My research spans methods, theory, and applications across geospatial AI, includ
 - **Synthetic aperture radar (SAR)**–based retrievals of soil moisture and vegetation properties  
 - **Foundation models and benchmarking** for multisensor Earth observation data  
 
----
 
 ## Biography
 
 Hamed Alemohammad is an Associate Professor in the Graduate School of Geography and Director of the Center for Geospatial Analytics at Clark University. He is an interdisciplinary scientist with expertise in remote sensing, Earth system science, and geospatial artificial intelligence. His research focuses on developing and evaluating data‑driven methods for extracting information from Earth observation data, with a particular interest in uncertainty, model robustness, and the responsible use of AI in geospatial applications. He has served as Principal Investigator on multiple projects developing novel machine learning approaches for multispectral, microwave, and synthetic aperture radar (SAR) observations, and his recent work centers on geospatial foundation models for Earth observation. As Director of CGA, he leads research programs, external partnerships, and workforce development initiatives, working across academia, government, industry, and international organizations to translate geospatial research into practice.
 
----
 
 ## Previous Experience
 
