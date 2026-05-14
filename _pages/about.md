@@ -8,26 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the [Graduate School of Geography](https://www.clarku.edu/departments/geography/) at [Clark University](https://www.clarku.edu/) and Director of [Clark Center for Geospatial Analytics](https://clarku.edu/cga). I am an interdisciplinary scientist with expertise in remote sensing, earth science, and AI. 
-My research interest lies at the intersection of remote sensing and data analytics to use observations to better understand the changing Earth system.
 
-Recently, we have been focused on developing and benchmarking Foundation Models for Earth Observations in my group. You can check the latest updates of this work [here](https://www.clarku.edu/centers/geospatial-analytics/projects/prithvi-foundation-model/). 
+I am an Associate Professor in the [Graduate School of Geography](https://www.clarku.edu/departments/geography/) at [Clark University](https://www.clarku.edu/) and Director of the [Clark Center for Geospatial Analytics (CGA)](https://www.clarku.edu/cga). My work sits at the intersection of Earth observation, geospatial analytics, and artificial intelligence, with a focus on building data‑driven methods that help us better understand—and make decisions about—a changing planet.
 
-My main areas of research are:
-- Developing and Adapting Machine Learning Techniques for Earth Observation Data
-- Characterizing Uncertainties in Geospatial ML Model Predictions
-- Applications of SAR for Soil Moisture and Vegetation Properties Retrieval
+My research is motivated by a simple question: **how can we turn the growing volume of Earth observation data into reliable, actionable understanding of environmental systems?** I approach this problem by combining machine learning with geospatial and physical insight, paying particular attention to uncertainty, model evaluation, and real‑world applicability.
+
+In recent years, my group has been focused on the development, evaluation, and benchmarking of **self-supervised learning models for Earth observation**, and specifically generalizable foundation models designed to learn from heterogeneous geospatial data at scale. You can find updates and related work [here](https://www.clarku.edu/centers/geospatial-analytics/projects/prithvi-foundation-model/).
+
+---
+
+## Research Themes
+
+My research spans methods, theory, and applications across geospatial AI, including:
+
+- **Geospatial AI and machine learning for Earth observation**, with an emphasis on scalable and generalizable models  
+- **Evaluation and uncertainty characterization** in geospatial and remote sensing ML systems  
+- **Synthetic aperture radar (SAR)**–based retrievals of soil moisture and vegetation properties  
+- **Foundation models and benchmarking** for multisensor Earth observation data  
+
+---
 
 ## Biography
 
-Hamed Alemohammad is an Associate Professor in the Graduate School of Geography and Director of the Center for Geospatial Analytics at Clark University. He is an interdisciplinary scientist with expertise in remote sensing, earth science, and AI. His research interest lies at the intersection of geospatial analytics/AI and geography to use observations to better understand the changing Earth system. Hamed has been the PI for several projects focused on developing novel AI models for multispectral, microwave and synthetic aperture radar (SAR) satellite observations. In recent years, his research has been focused on development and application of geospatial foundation models. Prior to Clark University, Hamed was the Chief Data Scientist and Executive Director at Radiant Earth Foundation where he established and led the development of Radiant MLHub - the open-access repository for geospatial training data and AI models. He received his Ph.D. in Civil and Environmental Engineering from MIT.
+Hamed Alemohammad is an Associate Professor in the Graduate School of Geography and Director of the Center for Geospatial Analytics at Clark University. He is an interdisciplinary scientist with expertise in remote sensing, Earth system science, and geospatial artificial intelligence. His research focuses on developing and evaluating data‑driven methods for extracting information from Earth observation data, with a particular interest in uncertainty, model robustness, and the responsible use of AI in geospatial applications. He has served as Principal Investigator on multiple projects developing novel machine learning approaches for multispectral, microwave, and synthetic aperture radar (SAR) observations, and his recent work centers on geospatial foundation models for Earth observation. As Director of CGA, he leads research programs, external partnerships, and workforce development initiatives, working across academia, government, industry, and international organizations to translate geospatial research into practice.
 
-## Previous Experience 
+---
 
-Before joining Clark University in Jan. 2023, I was the Chief Data Scientist and Executive Director at [Radiant Earth Foundation](https://www.radiant.earth/), an organization with the vision to empower organizations and individuals globally with open ML and EO data, standards and tools to address the world’s most critical international development challenges. I established and led the development of [Radiant MLHub](https://mlhub.earth/) - the open-access repository for geospatial training data and models at Radiant Earth. In this capacity, I also led efforts to mobilize the geospatial community to develop standards and best practices for an interoperable geospatial data ecosystem (such as SpatioTemporal Asset Catalog (STAC)).
+## Previous Experience
 
-Before joining Radiant Earth Foundation in 2017, I spent one year as a Postdoctoral Research Scientist at Columbia University’s Earth and Environmental Engineering Department working with [Pierre Gentine](https://gentinelab.eee.columbia.edu/home). My research was focused on improving our understanding of the heterogeneous processes linking the water, carbon and energy cycles. In particular, I developed new retrieval algorithms from remote sensing observations for different variables of the Water and Carbon cycles and using the remote sensing estimates to characterize the dynamic feedback between terrestrial ecosystem and atmosphere.
+Before joining Clark University in January 2023, I was the Chief Data Scientist and Executive Director at the [Radiant Earth Foundation](https://www.radiant.earth/). Radiant Earth’s mission is to advance open data, open standards, and shared infrastructure for geospatial machine learning, particularly in support of global development and sustainability challenges.
 
-Prior to Columbia University, I was a Postdoctoral Research Associate in the Department of Civil and Environmental Engineering at MIT working with [Dara Entekhabi](https://cee.mit.edu/people_individual/dara-entekhabi/) in Parsons Laboratory for Environmental Science and Engineering. At MIT, I developed a new polarimetric retrieval algorithm for NASA JPL’s Airborne Microwave Observatory of Subcanopy and Subsurface ([AirMOSS](https://airmoss.jpl.nasa.gov/)) mission to estimate soil and vegetation parameters from P-band Synthetic Aperture Radar (SAR) observations.
+At Radiant Earth, I established and led the development of Radiant MLHub (now [Source Cooperative](https://source.coop/)), an open‑access repository for geospatial training data and machine learning models, and helped convene the global geospatial community around standards and best practices for interoperable data ecosystems, including the SpatioTemporal Asset Catalog (STAC).
 
-I received my Ph.D. in Civil and Environmental Engineering from MIT in 2014 (supervisors: Prof. Dara Entekhabi, Prof. Dennis McLaughlin). My PhD [dissertation](https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/ejdckj/alma990023315020106761) was focused on quantification of uncertainty in remotely-sensed precipitation estimates. I developed an ensemble-based framework to characterize the uncertainty in precipitation estimates using historical errors. This framework generates realistic spatial (2D) replicates of rainfall that can be used to propagate the uncertainty into ecohydrological and meteorological models, especially those used in Data Assimilation.
+Previously, I was a Postdoctoral Research Scientist at Columbia University’s Department of Earth and Environmental Engineering, working with [Pierre Gentine](https://gentinelab.eee.columbia.edu/). My research focused on land–atmosphere interactions and on developing remote sensing–based retrievals to study coupled water, carbon, and energy cycle processes.
+
+Before Columbia, I was a Postdoctoral Research Associate at MIT in the Department of Civil and Environmental Engineering, working with [Dara Entekhabi](https://cee.mit.edu/people_individual/dara-entekhabi/) in the Parsons Laboratory for Environmental Science and Engineering. There, I developed polarimetric retrieval algorithms for NASA JPL’s [AirMOSS](https://airmoss.jpl.nasa.gov/) mission to estimate soil and vegetation parameters from P‑band SAR observations.
+
+I received my Ph.D. in Civil and Environmental Engineering from MIT in 2014 (supervisors: Prof. Dara Entekhabi and Prof. Dennis McLaughlin). My [doctoral research](https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/ejdckj/alma990023315020106761) focused on quantifying uncertainty in remotely sensed precipitation estimates, developing ensemble‑based methods to propagate spatial uncertainty into ecohydrological, meteorological, and data assimilation models.
