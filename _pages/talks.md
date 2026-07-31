@@ -7,10 +7,11 @@ author_profile: true
 
 ## Invited Talks
 
-### Upcoming
-1. NASA Goddard Space Flight Center, June 2026
+<!-- ### Upcoming
+ -->
 
 ### Past
+1. Hydrological Sciences Laboratory, NASA Goddard Space Flight Center, June 2026
 1. 2026 IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium, April 2026
 1. Center for Remote Sensing Applications (CRSA), Mohammed VI Polytechnic University, April 2026
 1. AGU Fall Meeting, December 2025
